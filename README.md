@@ -14,9 +14,14 @@ Przebieg zadania:
     ```
 3. Na koniec zatrzymanie i usunięcie konterów:
     ```
-    docker compose down
+    docker-compose down
     ```
-
+4. Wyniki z poszczególnych etapów są umieszczone w repozytorium:
+BazaDanych.png - Jest to wynik z tworzenia nowej bazy w phpMyAdmin<br><br/>
+about_config.png - Jest to wynik z oblokowania portu 6666<br><br/>
+php.png - Jest to wynik z przeglądarki pod adresem: http://localhost:6666/<br><br/>
+phpmyadmin.png - Jest to wynik z logowania do phpMyAdmin pod adresem http://localhost:6001/<br><br/>
+konsola.png - Jest to wynik z konsoli
 
 Strona z której skorzystałem przy odblokowywaniu portu:
 ```
