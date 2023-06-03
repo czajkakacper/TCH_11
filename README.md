@@ -18,4 +18,7 @@ Przebieg zadania:
     ```
 
 
-  
+Strona z której skorzystałem przy odblokowywaniu portu:
+```
+https://www.specialagentsqueaky.com/blog-post/r5iwj96j/2012-02-20-how-to-remove-firefoxs-this-address-is-restricted/
+```
